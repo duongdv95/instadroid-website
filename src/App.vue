@@ -6,7 +6,6 @@
     <Footer />
   </div>
 </template>
-
 <script>
 import Instadroid from './components/Instadroid.vue'
 import Instructions from './components/Instructions.vue'
