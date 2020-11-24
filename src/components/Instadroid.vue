@@ -18,6 +18,12 @@
               <!-- <a class="navbar-item is-active">
                 Home
               </a> -->
+              <a href="https://www.facebook.com/groups/298146074618530" target="blank" class="navbar-item">
+                <span class="fb-icon icon"> 
+                  <i class="fab fa-facebook-f"></i>
+                </span>
+                Join our FB Group 
+              </a>
               <a href="#documentation" class="navbar-item">
                 Documentation
               </a>
@@ -26,7 +32,7 @@
               </a>
               <span class="navbar-item">
                 <a class="button is-primary is-inverted"  href='https://play.google.com/store/apps/details?id=com.danielduong.instadroid&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="none">
-                  <span>Download</span>
+                  <span>Get it now</span>
                 </a>
               </span>
             </div>
@@ -48,8 +54,8 @@
                 Instadroid
               </h1>
               <h1 class="subtitle">
-                Automate <strong>liking</strong>, <strong>following</strong>, and <strong>unfollowing</strong> on instagram using this app.
-                Expand your reach and grow your brand or business now!
+                Automate <strong>liking</strong>, <strong>following</strong>, and <strong>unfollowing</strong> on instagram using Instadroid.
+                Expand your reach and watch your brand or business grow!
               </h1>
               <div class="columns is-centered">
                 <div class="column is-half">
@@ -85,4 +91,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss">
+.fb-icon {
+  background: #1778F2;
+  i {
+    color: white;
+  }
+  margin-right: 1px !important;
+}
 </style>

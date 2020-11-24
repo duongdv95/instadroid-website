@@ -2,9 +2,10 @@
 <footer class="footer">
   <div class="content has-text-centered">
     <p>
-      <strong>Instadroid</strong> by <a href="#">Daniel Duong</a>. The source code is licensed
-      <a href="#">MIT??</a>. The website content
-      is licensed?? <a href="#">???</a>.
+      Support <strong>app development</strong> by becoming a <a href="https://www.patreon.com/instadroid" target="blank">patron</a>. Join our Facebook <a href="https://www.facebook.com/groups/298146074618530" target="blank">group</a>. 😊
+    </p>
+    <p>
+      Instadroid.app is a participant in the Amazon Services LLC Associates Program.
     </p>
   </div>
 </footer>

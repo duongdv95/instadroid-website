@@ -1,0 +1,11 @@
+{
+  "changelog":[
+    {
+      "version": "x.x.x",
+      "date": "2020-11-22",
+      "features": ["aLorem ipsum dolor, sit amet consectetur adipisicing elit.", "Reprehenderit eum laudantium cupiditate itaque modi assumenda quis.","Fuga voluptate, itaque ullam pariatur iusto asperiores nam hic commodi voluptas ea, quae neque."],
+      "bugfixes": ["Lorem ipsum dolor, sit amet consectetur adipisicing elit.", "Reprehenderit eum laudantium cupiditate itaque modi assumenda quis.","Fuga voluptate, itaque ullam pariatur iusto asperiores nam hic commodi voluptas ea, quae neque."],
+      "improvements": ["Lorem ipsum dolor, sit amet consectetur adipisicing elit.", "Reprehenderit eum laudantium cupiditate itaque modi assumenda quis.","Fuga voluptate, itaque ullam pariatur iusto asperiores nam hic commodi voluptas ea, quae neque."]
+    }
+  ]
+}

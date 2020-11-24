@@ -1,67 +1,63 @@
 <template>
   <section class="section" id="changelog">
-    <div class="container">
-    <h1 class="title">Changelog <span class="icon"><i class="fas fa-clipboard-list"></i></span></h1>
-    <div class="content">
-      <h1 class="title is-4">Version x.x.x (2020-11-22)</h1>
-      <h1 class="title is-5">Features</h1>
-      <p>
-        <ul>
-          <li>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-          </li>
-          <li>
-            Reprehenderit eum laudantium cupiditate itaque modi assumenda quis.
-          </li>
-          <li>
-            Fuga voluptate, itaque ullam pariatur iusto asperiores nam hic commodi voluptas ea, quae neque.
-          </li>
-        </ul>
-      </p>
-      <h1 class="title is-5">Bug Fixes</h1>
-      <p>
-        <ul>
-          <li>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-          </li>
-          <li>
-            Reprehenderit eum laudantium cupiditate itaque modi assumenda quis.
-          </li>
-          <li>
-            Fuga voluptate, itaque ullam pariatur iusto asperiores nam hic commodi voluptas ea, quae neque.
-          </li>
-        </ul>
-      </p>
-      <h1 class="title is-5">Improvements</h1>
-      <p>
-        <ul>
-          <li>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-          </li>
-          <li>
-            Reprehenderit eum laudantium cupiditate itaque modi assumenda quis.
-          </li>
-          <li>
-            Fuga voluptate, itaque ullam pariatur iusto asperiores nam hic commodi voluptas ea, quae neque.
-          </li>
-        </ul>
-      </p>
+    <div class="columns">
+      <div class="column is-three-quarters container">
+        <h1 class="title">Changelog <span class="icon"><i class="fas fa-clipboard-list"></i></span></h1>
+        <div class="content">
+          <div class="changelog" v-for="(item, index) in changelog" v-bind:key="index">
+            <h1 class="title is-4">Version {{item.version}} ({{item.date}})</h1>
+            <div class="features" v-if="item.features">
+              <h1 class="title is-5">Features</h1>
+              <p>
+                <ul>
+                  <li v-for="(feature, index) in item.features" v-bind:key="index">
+                    {{feature}}
+                  </li>
+                </ul>
+              </p>
+            </div>
+            <div class="bug-fixes" v-if="item.bugfixes">
+              <h1 class="title is-5">Bug Fixes</h1>
+              <p>
+                <ul>
+                  <li v-for="(bugfix, index) in item.bugfixes" v-bind:key="index">
+                    {{bugfix}}
+                  </li>
+                </ul>
+              </p>
+            </div>
+            <div class="improvements" v-if="item.improvements">
+              <h1 class="title is-5">Improvements</h1>
+              <p>
+                <ul>
+                  <li v-for="(improvement, index) in item.improvements" v-bind:key="index">
+                    {{improvement}}
+                  </li>
+                </ul>
+              </p>
+            </div>
+            <hr>
+          </div>
+        </div>
+      </div>
     </div>
-    </div>
-
   </section>
 </template>
 
 <script>
 export default {
   name: 'Changelog',
-  props: {
-    msg: String
+  data: () => {
+    return {
+      changelog: require('@/changelog.json').changelog
+    }
   }
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+.changelog {
+  margin-bottom: 2em;
+}
 </style>
