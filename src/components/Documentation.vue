@@ -28,18 +28,18 @@
                         Go to Settings > System > Developer Options > Flip On ‘Stay Awake’
                     </li>
                     <li>
-                        Go to Settings > Accessibility > Under ‘Downloaded services’ > Click this app > Turn on ‘Use Service’
+                        Go to Settings > Accessibility > Under ‘Downloaded services’ > Click this app > Turn on ‘Use Service’ (Skip this if you already did this in app set up)
                     </li>
                     <li>
-                        Make sure you are logged into Instagram (up to 5 accounts)
+                        Make sure you are logged into Instagram (up to 5 accounts with Pro)
                     </li>
                     <li>
-                        Go to Settings > Under Application Settings
-                        Click ‘Add Instagram Handle’ to add your logged Instagram handles from the previous step (up to 5 accounts)
+                        Go to Settings > Under Application Settings >
+                        Click ‘Your Instagram Users’ to add your Instagram handles from the previous step (up to 5 accounts with Pro)
                     </li>
                     <li>
                         OPTIONAL - Go to Settings > Under ‘Application Settings’
-                        Click ‘Exclude Friends’ to add friends to a list that prevents the app from unfollowing them
+                        Click ‘Safe List’ to add friends to a list that prevents the app from unfollowing them
                     </li>
                 </ol>
                 </p>

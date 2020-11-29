@@ -1,5 +1,5 @@
 <template>
-  <div class="hero instadroid is-primary is-fullheight">
+  <div class="hero instadroid is-primary is-fullheight" id="hero-intro">
     <div class="hero-head">
       <nav class="navbar">
         <div class="container">

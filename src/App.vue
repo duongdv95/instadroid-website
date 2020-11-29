@@ -2,14 +2,14 @@
   <div id="app">
     <Instadroid />
     <Features />
-    <Instructions />
+    <Documentation />
     <Changelog />
     <Footer />
   </div>
 </template>
 <script>
 import Instadroid from './components/Instadroid.vue'
-import Instructions from './components/Instructions.vue'
+import Documentation from './components/Documentation.vue'
 import Changelog from './components/Changelog.vue'
 import Footer from './components/Footer.vue'
 import Features from './components/Features.vue'
@@ -17,7 +17,7 @@ import Features from './components/Features.vue'
 export default {
   name: 'App',
   components: {
-    Instructions,
+    Documentation,
     Changelog,
     Instadroid,
     Footer,
