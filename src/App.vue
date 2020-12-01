@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Instadroid />
+    <DemoVideo />
     <Features />
     <Documentation />
     <Changelog />
@@ -13,6 +14,7 @@ import Documentation from './components/Documentation.vue'
 import Changelog from './components/Changelog.vue'
 import Footer from './components/Footer.vue'
 import Features from './components/Features.vue'
+import DemoVideo from './components/DemoVideo.vue'
 
 export default {
   name: 'App',
@@ -21,7 +23,8 @@ export default {
     Changelog,
     Instadroid,
     Footer,
-    Features
+    Features,
+    DemoVideo
   }
 }
 </script>

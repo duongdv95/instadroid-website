@@ -13,7 +13,7 @@
                   Community
                 </p>
                 <p>
-                  Join our FB group to stay up-to-date with app news
+                  Join our <a href="https://www.facebook.com/groups/298146074618530" target="blank">FB group</a> to stay up-to-date with app news
                 </p>
               </div>
             </div>

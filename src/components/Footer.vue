@@ -2,7 +2,7 @@
 <footer class="footer">
   <div class="content has-text-centered">
     <p>
-      Support <strong>app development</strong> by becoming a <a href="https://www.patreon.com/instadroid" target="blank">patron</a>. Also check out our Facebook <a href="https://www.facebook.com/groups/298146074618530" target="blank">group</a>. 😊
+      Support <strong>app development</strong> by becoming a <a href="https://www.patreon.com/instadroid" target="blank">patron</a>. Also check out our Facebook <a href="https://www.facebook.com/groups/298146074618530" target="blank">group</a> 😊. <a href="mailto:danielvanduong@gmail.com">Contact me.</a>
     </p>
     <p>
       Instadroid.app is a participant in the Amazon Services LLC Associates Program.

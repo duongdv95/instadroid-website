@@ -20,7 +20,7 @@
             </div>
             <div class="instruction-section content">
                 <h1 id="set_up" class="title is-5">📃 Automation Set Up</h1>
-                <strong>Instdroid is best used on a dedicated phone.</strong>
+                <strong>Instadroid is best used on a dedicated phone.</strong>
                 <p>
                     <a href="https://www.amazon.com/Google-Pixel-Memory-Phone-Unlocked/dp/B07P8MQHSH/ref=as_li_ss_tl?dchild=1&keywords=google+pixel+3&qid=1598178433&sr=8-3&linkCode=ll1&tag=danield04-20&linkId=034ea368b743e785a76911f8b6f51645&language=en_US">Google Pixel 3</a> is currently the only tested Android phone that works properly with this app. Join our <a href="https://facebook.com/groups/298146074618530/">FB group</a> to submit reports if you have another phone model that works. This app is best used with an extra phone that is plugged in 24/7 & connected to WiFi. You can also manually run interactions, but messages or phone calls can interrupt the automation process.
                 <ol type="1">
