@@ -6,6 +6,12 @@
         <div class="content">
           <div class="changelog" v-for="(item, index) in changelog" v-bind:key="index">
             <h1 class="title is-4">Version {{item.version}} ({{item.date}})</h1>
+            <div class="news" v-if="item.news">
+              <h1 class="title is-5">News</h1>
+              <p>
+                {{item.news}}
+              </p>
+            </div>
             <div class="features" v-if="item.features">
               <h1 class="title is-5">Features</h1>
               <p>
