@@ -20,15 +20,26 @@
             </div>
             <div class="instruction-section content">
                 <h1 id="set_up" class="title is-5">📃 Automation Set Up</h1>
-                <strong>Instadroid is best used on a dedicated phone.</strong>
+                <strong>A few things..</strong>
+                <ul>
+                    <li>
+                        <strong>Instadroid is best used on a dedicated phone (no SIM) that is plugged in 24/7 and connected to WIFI</strong>
+                    </li>
+                    <li>
+                        <strong>Instagram updates and UI changes can break the app, join our community on facebook to get news on updated app releases</strong>
+                    </li>
+                    <li>
+                        <strong>Going to play store settings and disabling auto app updates may help prolong app breakage</strong>
+                    </li>
+                </ul>
                 <p>
-                    <a href="https://www.amazon.com/Google-Pixel-Memory-Phone-Unlocked/dp/B07P8MQHSH/ref=as_li_ss_tl?dchild=1&keywords=google+pixel+3&qid=1598178433&sr=8-3&linkCode=ll1&tag=danield04-20&linkId=034ea368b743e785a76911f8b6f51645&language=en_US">Google Pixel 3</a> is currently the only tested Android phone that works properly with this app. Join our <a href="https://facebook.com/groups/298146074618530/">FB group</a> to submit reports if you have another phone model that works. This app is best used with an extra phone that is plugged in 24/7 & connected to WiFi. You can also manually run interactions, but messages or phone calls can interrupt the automation process.
+                    <a href="https://amzn.to/3nrh0yU">Google Pixel 3</a> and <a href="https://amzn.to/3nljwq1">Samsung Galaxy S7</a> are the only two devices extensively tested with this app. One user reported Pixel 2XL works. Join our <a href="https://facebook.com/groups/298146074618530/">FB group</a> to submit reports if you have another phone model that works. You can also manually run interactions if you use your main device but beware that phone calls can interrupt the app's automation.
                 <ol type="1">
                     <li>
                         Go to Settings > System > Developer Options > Flip On ‘Stay Awake’
                     </li>
                     <li>
-                        Go to Settings > Accessibility > Under ‘Downloaded services’ > Click this app > Turn on ‘Use Service’ (Skip this if you already did this in app set up)
+                        Go to Settings > Accessibility > Under ‘Downloaded services’ > Click this app > Turn on ‘Use Service’ (SKIP THIS if you already did this in app set up)
                     </li>
                     <li>
                         Make sure you are logged into Instagram (up to 5 accounts with Pro)
@@ -49,7 +60,10 @@
                     🕛 Automated Activities
                 </h1>
                 <p>
-                    Properly <a href="#set_up">set up</a> the phone or automation will fail. Create a list of automated activities in the home page. This app will self-navigate to Instagram and perform the actions. Exiting Instagram will stop the current activity. Check Logs for successful or failed activities. Report repeatedly failed activities to our <a href="https://facebook.com/groups/298146074618530/">FB group</a>. It is important to leave the phone by itself while actions are carried.
+                    Properly <a href="#set_up">set up</a> the phone or automation will fail. Create a list of automated activities in the home page. This app will self-navigate to Instagram and perform the actions. Navigating away from Instagram while automation is running will stop the current activity. Check Logs for successful or failed activities. Report repeatedly failed activities to our <a href="https://facebook.com/groups/298146074618530/">FB group</a>. It is important to leave the phone by itself while automation happens.
+                </p>
+                <p>
+                    Actions start with pre-navigation to get to the correct page. If it fails to navigate to the correct page in time, it will be logged. After pre-navigation, action will run with a 3 hour limit. 
                 </p>
                 <h3 class="title is-6">
                     Like By Tag

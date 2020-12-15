@@ -1,12 +1,12 @@
 {
   "changelog":[
     {
-      "version": "1.3.0",
-      "date": "Next Version",
-      "news": "IG is currently disabling recent/top feed due to election misinformation. Go to settings > advanced settings > and turn on Feed Correction to skip feed selection to reduce navigation errors. User reported Google Pixel 2XL works.",
-      "features": ["Like By Tag", "Follow by Tag","Unfollow"],
-      "bugfixes": ["sanitize inputs amount to prevent crashes"],
-      "improvements": ["show version number in settings"]
+      "version": "1.3.1",
+      "date": "2020-12-15",
+      "news": "Samsung galaxy S7 has been tested alongside Google Pixel 3 (google pixel 3a will most likely work as well). One user has reported Google Pixel 2XL works. Increased 1 user limit to 2 user limit for basic version.",
+      "features": ["Advanced Settings has customizable scrolling speeds (Samsung S7 may need this tweak to scroll quicker)"],
+      "bugfixes": ["Sanitize inputs amount to prevent crashes"],
+      "improvements": ["Reorganized Success/Fail Logs to view by day"]
     },
     {
       "version": "1.2.9",
