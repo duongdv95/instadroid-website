@@ -29,11 +29,11 @@
                         <strong>Instagram updates and UI changes can break the app, join our community on facebook to get news on updated app releases</strong>
                     </li>
                     <li>
-                        <strong>Going to play store settings and disabling auto app updates may help prolong app breakage</strong>
+                        <strong>Going to Google Play store settings and disabling auto app updates may help Instadroid from breaking due to IG updates</strong>
                     </li>
                 </ul>
                 <p>
-                    <a href="https://amzn.to/3nrh0yU">Google Pixel 3</a> and <a href="https://amzn.to/3nljwq1">Samsung Galaxy S7</a> are the only two devices extensively tested with this app. One user reported Pixel 2XL works. Join our <a href="https://facebook.com/groups/298146074618530/">FB group</a> to submit reports if you have another phone model that works. You can also manually run interactions if you use your main device but beware that phone calls can interrupt the app's automation.
+                    <a href="https://amzn.to/3nrh0yU">Google Pixel 3</a> and <a href="https://amzn.to/3nljwq1">Samsung Galaxy S7</a> are the only two devices extensively tested with this app. One user reported Pixel 2XL works and I wouldn't be surprised if Pixel 3a works as well. Join our <a href="https://facebook.com/groups/298146074618530/">FB group</a> to submit reports if you have another phone model that works. You can also manually run interactions if you use your main device but beware that phone calls can interrupt the app's automation.
                 <ol type="1">
                     <li>
                         Go to Settings > System > Developer Options > Flip On ‘Stay Awake’
@@ -65,6 +65,35 @@
                 <p>
                     Actions start with pre-navigation to get to the correct page. If it fails to navigate to the correct page in time, it will be logged. After pre-navigation, action will run with a 3 hour limit. 
                 </p>
+                <p>
+                    <strong>
+                        There is some trial and error in figuring how much time to leave in-between each action depending on your device.
+                        <br>
+                        <br>
+                        Sample Automation Schedule for Google Pixel 3 (Samsung Galaxy S7 has slower scrolling speeds that can be adjusted in 'Advanced Settings')
+                        <ul>
+                            <li>
+                                8:00am Like by Tag - Amount 150 /w #hashtag1 (takes approximately 30 minutes)
+                            </li>
+                            <li>
+                                10:00am Like by Tag - Amount 150 /w #hashtag2 
+                            </li>
+                            <li>
+                                12:00pm Like by Tag - Amount 150 /w #hashtag3
+                            </li>
+                            <li>
+                                2:00pm Follow by Tag - Amount 100 /w #hashtag 1
+                            </li>
+                            <li>
+                                10pm Unfollow - Amount 100
+                            </li>
+                            <li>
+                                Be aware of Instagram limits of Likes, Follows, and Unfollows 
+                            </li>
+                        </ul>
+                    </strong>
+                </p>
+
                 <h3 class="title is-6">
                     Like By Tag
                 </h3>
