@@ -3,7 +3,7 @@
     <div class="columns is-centered">
       <div class="column is-half">
         <div class="video-wrapper"> 
-          <iframe src="https://www.youtube.com/embed/VX83xrc58M0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/gTtAFUv97Pc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>

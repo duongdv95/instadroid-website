@@ -1,6 +1,11 @@
 {
   "changelog":[
     {
+      "version": "1.3.2",
+      "date": "2020-12-16",
+      "bugfixes": ["Fix username detection fail during profile switching"]
+    },
+    {
       "version": "1.3.1",
       "date": "2020-12-15",
       "news": "Samsung galaxy S7 has been tested alongside Google Pixel 3 (google pixel 3a will most likely work as well). One user has reported Google Pixel 2XL works. Increased 1 user limit to 2 user limit for basic version.",
