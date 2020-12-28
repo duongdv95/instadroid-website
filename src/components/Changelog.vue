@@ -11,9 +11,9 @@
               <p>
                 {{item.news}}
               </p>
+              <br/>
             </div>
             <div class="features" v-if="item.features">
-              <br/>
               <h1 class="title is-5">Features</h1>
               <p>
                 <ul>
@@ -22,9 +22,9 @@
                   </li>
                 </ul>
               </p>
+              <br/>
             </div>
             <div class="bug-fixes" v-if="item.bugfixes">
-              <br/>
               <h1 class="title is-5">Bug Fixes</h1>
               <p>
                 <ul>
@@ -33,9 +33,9 @@
                   </li>
                 </ul>
               </p>
+              <br/>
             </div>
             <div class="improvements" v-if="item.improvements">
-              <br/>
               <h1 class="title is-5">Improvements</h1>
               <p>
                 <ul>
