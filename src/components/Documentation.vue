@@ -33,7 +33,7 @@
                     </li>
                 </ul>
                 <p>
-                    <a href="https://amzn.to/3nrh0yU">Google Pixel 3</a> and <a href="https://amzn.to/3nljwq1">Samsung Galaxy S7</a> are the only two devices extensively tested with this app. One user reported Pixel 2XL works and I wouldn't be surprised if Pixel 3a works as well. Join our <a href="https://facebook.com/groups/298146074618530/">FB group</a> to submit reports if you have another phone model that works. You can also manually run interactions if you use your main device but beware that phone calls can interrupt the app's automation.
+                    <a href="https://amzn.to/2WTyZ5m">Google Pixel</a>, <a href="https://amzn.to/3mPM0r6">Google Pixel 2</a>, <a href="https://amzn.to/3nrh0yU">Google Pixel 3</a> and <a href="https://amzn.to/3nljwq1">Samsung Galaxy S7</a> are the few devices extensively tested with this app. Join our <a href="https://facebook.com/groups/298146074618530/">FB group</a> to submit reports if you have another phone model that works. You can also manually run interactions if you use your main device but beware that phone calls can interrupt the app's automation.
                 <ol type="1">
                     <li>
                         Go to Settings > System > Developer Options > Flip On ‘Stay Awake’
