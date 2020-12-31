@@ -13,7 +13,7 @@
                 </p>
             </div>
             <div class="instruction-section">
-                <h1 class="title is-5">🔥 Instadroid’s purpose</h1>
+                <h1 class="title is-5">🔥 Autodroid’s purpose</h1>
                 <p>
                     Increase organic traffic to your page by automating Instagram interactions: <strong>Liking</strong>, <strong>Following</strong>, and <strong>Unfollowing</strong> on your phone. This will rapidly grow your Instagram page when paired with great and consistent content from you (brand/company/creator).
                 </p>
@@ -23,13 +23,13 @@
                 <strong>A few things..</strong>
                 <ul>
                     <li>
-                        <strong>Instadroid is best used on a dedicated phone (no SIM) that is plugged in 24/7 and connected to WIFI</strong>
+                        <strong>Autodroid is best used on a dedicated phone (no SIM) that is plugged in 24/7 and connected to WIFI</strong>
                     </li>
                     <li>
                         <strong>Instagram updates and UI changes can break the app, join our community on facebook to get news on updated app releases</strong>
                     </li>
                     <li>
-                        <strong>Going to Google Play store settings and disabling auto app updates may help Instadroid from breaking due to IG updates</strong>
+                        <strong>Going to Google Play store settings and disabling auto app updates can help prolong Autodroid from breaking due to IG updates</strong>
                     </li>
                 </ul>
                 <p>
