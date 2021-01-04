@@ -1,6 +1,17 @@
 {
   "changelog": [
     {
+      "version": "1.3.5",
+      "date": "2021-1-04",
+      "news": "The holidays slowed down app approvals.. The internal testing version just got approved. Everything looks good so I just rolled out a production version to Google Play Store! Hoping to see it approved ASAP.",
+      "features": [
+        "New Hashtags List feature:",
+        "1. Create a list and add hash tags",
+        "2. Set your activity to use the list",
+        "3. Whenever the activity runs, it will randomly choose a hashtag from the list"
+      ]
+    },
+    {
       "version": "1.3.4",
       "date": "2020-12-30",
       "news": "Hey everyone, Instadroid got hit with trademark infringement. I'm rebranding the app as Autodroid with a different logo. Thanks for your patience and check back here later or join our FB group for updates!"
