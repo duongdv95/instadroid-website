@@ -73,7 +73,7 @@
               <div class="columns is-centered">
                 <div class="column is-half">
                   <a
-                    href="https://play.google.com/store/apps/details?id=com.danielduong.instadroid&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
+                    href="https://play.google.com/store/apps/details?id=com.danielduong.autodroid"
                   >
                     <img
                       alt="Get it on Google Play"

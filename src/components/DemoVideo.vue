@@ -2,8 +2,13 @@
   <section class="section" id="video">
     <div class="columns is-centered">
       <div class="column is-half">
-        <div class="video-wrapper"> 
-          <iframe src="https://www.youtube.com/embed/gTtAFUv97Pc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="video-wrapper">
+          <iframe
+            src="https://www.youtube.com/embed/OA79QZBVLCA"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
         </div>
       </div>
     </div>
@@ -12,8 +17,8 @@
 
 <script>
 export default {
-  name: 'DemoVideo'
-}
+  name: "DemoVideo",
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
@@ -25,10 +30,10 @@ export default {
 }
 
 .video-wrapper iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 </style>
