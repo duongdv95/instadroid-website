@@ -1,6 +1,14 @@
 {
   "changelog": [
     {
+      "version": "1.3.6",
+      "date": "2021-4-11",
+      "news": "IG updates cause 'follow' button detection to fail. Fixed this issue 👌.",
+      "features": [
+        "Added option to change max error count in advanced settings to stop autodroid when too many errors occur. Useful for old phones where the scroll distance is very short and accumulates more errors than necessary."
+      ]
+    },
+    {
       "version": "1.3.5",
       "date": "2021-1-04",
       "news": "The holidays slowed down app approvals.. The internal testing version just got approved. Everything looks good so I just rolled out a production version to Google Play Store! Hoping to see it approved ASAP.",
